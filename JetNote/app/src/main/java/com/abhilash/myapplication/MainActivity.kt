@@ -32,7 +32,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//want to check something new
 @Composable
 fun NoteApp(noteViewModel: NoteViewModel= viewModel()){
     val noteList=noteViewModel.getAllNote()
