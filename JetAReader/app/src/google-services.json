@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890143447135",
+    "project_id": "jetareader-e7e56",
+    "storage_bucket": "jetareader-e7e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890143447135:android:b2862922eb713ff2a4e3ea",
+        "android_client_info": {
+          "package_name": "com.abhilash.jetareader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890143447135-9h8butjjvnduis99hrfm9h6bjnal4svk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc-2hdABx_7XpWWWdabhoE1SpaB26jTQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890143447135-9h8butjjvnduis99hrfm9h6bjnal4svk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
